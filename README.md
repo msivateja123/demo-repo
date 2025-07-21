@@ -1,3 +1,3 @@
 # demo-repo
-Demo Repository 
+Demo Repository\n
 Author - Teja
